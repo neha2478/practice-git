@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+p{
+    background-color: lightcoral;
+    padding: 10px;
+    color:blueviolet;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2rem;
+}
