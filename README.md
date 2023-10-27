@@ -1,6 +1,6 @@
 # practice-git
 Practice Git Here
 <br>
-Author:- Shruti Karmakar
+Author:- Shruti (Practice Notebook)
 <br>
 Age:- 23
